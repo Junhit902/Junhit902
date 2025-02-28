@@ -19,7 +19,7 @@
     align="left" 
     alt="linkedin"
     title="linkedin" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" 
 />
@@ -27,7 +27,7 @@
     align="left" 
     alt="gmail" 
     title="gmail"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" 
 />
@@ -35,7 +35,7 @@
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://miro.medium.com/v2/resize:fit:560/0*_xnljgRHKGo036r7" 
 />
@@ -43,7 +43,7 @@
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://itforum.com.br/wp-content/uploads/2023/07/Dimensoes-Wordpress-1500-%C3%97-1000-px-7.jpg" 
 />
