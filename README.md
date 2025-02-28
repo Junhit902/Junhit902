@@ -31,7 +31,7 @@
     alt="Gmail" 
     title="Gmail"
     width="50px" 
-    style="padding-right: 10px; padding-bottom: 10px" 
+    style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" 
 />
 </a>
@@ -53,6 +53,16 @@
     width="50px" 
     style="padding-right: 10px;" 
     src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg" 
+/>
+</a>
+<a href="https://stackoverflow.com/users/25957909/junhit?tab=profile" target="_blank">
+<img 
+    align="left" 
+    alt="X"
+    title="X" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" 
 />
 </a>
 </p>
