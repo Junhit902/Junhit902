@@ -1,16 +1,18 @@
-## Hi there 👋
+# Thiago Jun Honma <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="50" height="50" style="vertical-align: middle;"/>
 
-<!--
-**Junhit902/Junhit902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SOBRE MIM / ABOUT ME
+<div id="about_me">
+    <p id="text">👋 Hi, I'm Thiago Jun Honma. I am passionate about developing my skills in programming.</p>
+    <button onclick="traduzir">🇧🇷 Português / 🇺🇸 English</button>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<script>
+    function traduzir() {
+        var text = document.getElementById("text");
+        if (text.innerHTML.includes("Hi, I'm Thiago")) {
+            text.innerHTML = "👋 Olá, sou Thiago Jun Honma. Sou apaixonado por desenvolver minhas habilidades em programação.";
+        } else {
+            text.innerHTML = "👋 Hi, I'm Thiago Jun Honma. I am passionate about developing my skills in programming.";  
+        }
+    }
+</script>
