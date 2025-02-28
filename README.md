@@ -18,4 +18,5 @@
 <p style="">
 <img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/311/2024/06/LinkedIn-Logo.wine_-480x320.png?v=52634" height="100" width="100">
 <img src="https://parspng.com/wp-content/uploads/2022/10/gmailpng.parspng.com-2.png" height="100" width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuS5EOtDelDx5tDdpjNevnFzXpnPCpFtvHxR0EcJ5Xaqrk4C2p9y8-FkLFGCiKb1b5aHo&usqp=CAU" height="100" width="100">
 </p>
