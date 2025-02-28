@@ -15,5 +15,7 @@
 <hr>
 
 ### REDES SOCIAIS
-<img src="![alt text](image.png)" />
-          
+<p style="">
+<img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/311/2024/06/LinkedIn-Logo.wine_-480x320.png?v=52634" height="100" width="100">
+
+</p>
