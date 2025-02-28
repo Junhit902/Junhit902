@@ -15,36 +15,44 @@
 <hr>
 
 <p style=" display: flex; justify-content: center; align-items: center; gap: 20px;">
+<a href="https://www.linkedin.com/in/thiago-h-745106229/" target="_blank">
 <img 
     align="left" 
-    alt="linkedin"
-    title="linkedin" 
+    alt="Linkedin"
+    title="Linkedin" 
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
 />
+</a>
+<a href="mailto:thiagojunhonma@gmail.com" target="_blank">
 <img 
     align="left" 
-    alt="gmail" 
-    title="gmail"
+    alt="Gmail" 
+    title="Gmail"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" 
 />
+</a>
+<a href="https://roadmap.sh/u/junhit" target="_blank">
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Roadmap" 
+    title="Roadmap"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://miro.medium.com/v2/resize:fit:560/0*_xnljgRHKGo036r7" 
 />
+</a>
+<a href="https://x.com/HommaJun" target="_blank">
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="X"
+    title="X" 
     width="50px" 
     style="padding-right: 10px;" 
     src="https://itforum.com.br/wp-content/uploads/2023/07/Dimensoes-Wordpress-1500-%C3%97-1000-px-7.jpg" 
 />
+</a>
 </p>
