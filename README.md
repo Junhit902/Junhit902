@@ -52,7 +52,7 @@
     title="X" 
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://itforum.com.br/wp-content/uploads/2023/07/Dimensoes-Wordpress-1500-%C3%97-1000-px-7.jpg" 
+    src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg" 
 />
 </a>
 </p>
