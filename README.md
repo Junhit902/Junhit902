@@ -31,7 +31,7 @@
     alt="Gmail" 
     title="Gmail"
     width="50px" 
-    style="padding-right: 10px; padding-top: -10px" 
+    style="padding-right: 10px; padding-bottom: 10px" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" 
 />
 </a>
