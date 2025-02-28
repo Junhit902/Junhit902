@@ -17,19 +17,19 @@
 <p style=" display: flex; justify-content: center; align-items: center; gap: 20px;">
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="linkedin"
+    title="linkedin" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="gmail" 
+    title="gmail"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" 
 />
 <img 
     align="left" 
@@ -37,7 +37,7 @@
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://miro.medium.com/v2/resize:fit:560/0*_xnljgRHKGo036r7" 
 />
 <img 
     align="left" 
@@ -45,6 +45,6 @@
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://itforum.com.br/wp-content/uploads/2023/07/Dimensoes-Wordpress-1500-%C3%97-1000-px-7.jpg" 
 />
 </p>
