@@ -11,3 +11,9 @@
   👋 Olá, meu nome é Thiago Jun Honma, tenho 22 anos e sou apaixonado por desenvolver minhas habilidades em programação. Atualmente, moro em Sorocaba - SP. Estou cursando Bacharelado em Engenharia da Computação no <a href="https://facens.br/" target="_blank" style="font-weight: bold">Centro Universitário - Facens</a>. Meu sonho é me tornar um Engenheiro de Dados.
   </p>
 </details>
+
+<hr>
+
+### REDES SOCIAIS
+<img src="![alt text](image.png)" />
+          
