@@ -99,7 +99,7 @@
 </h2>
 
 <details>   
-    <p>
+    <p style="margin-bottom: 20px">
         <summary><h2 style="font-weight: bold">Learning / Aprendendo</h2></summary>
         <img 
             align="left" 
@@ -169,7 +169,8 @@
             align="left" 
             alt="Java" 
             title="Java"
-            width="30px"  
+            width="30px" 
+            style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
         />
     </p>
