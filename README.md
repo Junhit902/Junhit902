@@ -239,7 +239,7 @@
         />
         <img 
             align="left" 
-            alt="RubyonRails" 
+            alt="Ruby on Rails" 
             title="RubyonRails"
             width="30px" 
             style="padding-right: 10px;" 
