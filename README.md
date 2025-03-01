@@ -100,7 +100,7 @@
 
 <details>   
     <p align="left">
-        <summary><h3 style="font-weight: bold">Learning / Aprendendo</h3></summary>
+        <summary><h3 style="font-weight: bold"> Learning / Aprendendo</h3></summary>
         <img 
             align="left" 
             alt="HTML"
@@ -182,6 +182,35 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
     <p align="left">
         <summary style="display: flex;"><h3 style="font-weight: bold">I want to learn / Quero aprender</h3></summary>
@@ -258,23 +287,4 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
         />
     </p>
-</details>
-
-<div align="left">
-  
-## 🔗 Learning / Aprendendo
-
-</div>
-
-<details>
-  <summary>📌 I want to learn / Quero aprender</summary>
-  
-  ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-  ![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg)
-  ![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg)
-  ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg)
-  ![Ruby](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg)
-  ![Rails](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg)
-  ![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg)
-
 </details>
