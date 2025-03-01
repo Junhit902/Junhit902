@@ -295,14 +295,14 @@
 
 <hr>
 
-<details>
+<details open>
     <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
     <p align="left">
         <a href="https://github.com/Junhit902">
             <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Junhit902" />
         </a>
     <a href="https://github.com/Junhit902">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junhit902&layout=compact&langs_count=8&card_width=320" />
+        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junhit902&layout=compact&langs_count=8&card_width=300" />
     </a>
     </p>
 </details>
