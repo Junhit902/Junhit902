@@ -302,7 +302,7 @@
             <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Junhit902&show_icons=true&theme=tokyonight" />
         </a>
     <a href="https://github.com/Junhit902">
-        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhit902&layout=donut"/>
+        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhit902&layout=donut&theme=tokyonight"/>
     </a>
     </p>
 </details>
