@@ -1,5 +1,9 @@
-# Thiago Jun Honma <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="50" height="50" style="vertical-align: middle;"/>
-
+<!-- Título -->
+<p>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=204DF7&width=435&lines=Thiago+Jun+Honma" alt="Typing SVG" /></a>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="50" height="50" style="vertical-align: middle;"/>
+</p>
+<!-- Sobre mim -->
 ## SOBRE MIM / ABOUT ME
 <p style="text-align: justify">
 👋 Hi, my name is Thiago Jun Honma. I am 22 years old, and I'm passionate about developing my skills in programming. Currently, I live in Sorocaba, SP (Brazil). I'm studying for a Bachelor's degree in Computer Engineering at <a href="https://facens.br/" target="_blank" style="font-weight: bold">Centro Universitário - Facens</a>. My dream is to become a Data Engineer.
@@ -13,6 +17,8 @@
 </details>
 
 <hr>
+
+<!-- Redes Sociais -->
 <p align="center">
 <a href="https://www.linkedin.com/in/thiago-h-745106229/">
     <img 
@@ -73,8 +79,8 @@
 <a href="https://open.spotify.com/playlist/1u4F50HA53L3Jwxbnk9IeO?si=10bf0963e06e48d6">
     <img 
         align-item="left" 
-        alt="X"
-        title="X" 
+        alt="Spotify"
+        title="Spotify" 
         src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">    
     </img>
 </a>
