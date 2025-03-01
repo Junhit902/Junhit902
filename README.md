@@ -240,7 +240,7 @@
         <img 
             align="left" 
             alt="Ruby on Rails" 
-            title="RubyonRails"
+            title="Ruby on Rails"
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
