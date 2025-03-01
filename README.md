@@ -91,7 +91,7 @@
         src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">    
     </img>
 </a>
-<a href="https://open.spotify.com/playlist/1u4F50HA53L3Jwxbnk9IeO?si=10bf0963e06e48d6">
+<a href="https://dev.to/junhit">
     <img 
         align-item="left" 
         alt="Spotify"
