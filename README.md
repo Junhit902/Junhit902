@@ -1,8 +1,13 @@
 <!-- Título -->
 <p align="center">
     <img src="/imagens/Captura de tela 2025-03-01 012152.png"></img>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="80" height="80" style="margin: 0px"/>
-</h1>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100" height="100" style="margin: 0px"/>
+</p>
+
+<!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&size=30&pause=1000&color=3C6AF7&width=435&lines=Learning+new+things;Aprendendo+coisas+novas" alt="Typing SVG" /></a>
+</p>
 
 <!-- Sobre mim -->
 <h3>SOBRE MIM / ABOUT ME</h3>
