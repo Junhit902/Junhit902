@@ -108,7 +108,7 @@
 
 <details open>   
     <p align="left">
-        <summary><h3 style="font-weight: bold">Learning / Aprendendo</h3></summary>
+        <summary><h3 style="font-weight: bold">💻 Learning / Aprendendo</h3></summary>
         <img 
             align="left" 
             alt="HTML"
@@ -206,7 +206,7 @@
 
 
 <details open>
-    <summary style="display: flex;"><h3 style="font-weight: bold">I want to learn / Quero aprender</h3></summary>
+    <summary style="display: flex;"><h3 style="font-weight: bold">📌 I want to learn / Quero aprender</h3></summary>
     <p align="left">
         <img 
             align="left" 
