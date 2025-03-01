@@ -184,7 +184,7 @@
 
 <details>
 <summary>
-<div align="left">
+<div>
   
 ### 🔗 Learning / Aprendendo
 
