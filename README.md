@@ -306,6 +306,6 @@
     </a>
     </p>
     <p align="center">
-        <img height="250" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Junhit902&theme=tokyo-night"/>
+        <img height="250" width="450" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Junhit902&theme=tokyo-night"/>
     </p>
 </details>
