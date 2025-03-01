@@ -257,3 +257,81 @@
         />
     </p>
 </details>
+
+<details style="margin-top: -20px">
+    <p align="left">
+        <summary><h3 style="font-weight: bold">I want to learn / Quero aprender</h3></summary>
+        <img 
+            align="left" 
+            alt="PostgreSQL"
+            title="PostgreSQL" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Azure" 
+            title="Azure"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Matplotlib" 
+            title="Matplotlib"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Numpy"
+            title="Numpy" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Pytorch" 
+            title="Pytorch"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="R" 
+            title="R"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Ruby" 
+            title="Ruby"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Ruby on Rails" 
+            title="Ruby on Rails"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Swift" 
+            title="Swift"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+        />
+    </p>
+</details>
