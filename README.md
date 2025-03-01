@@ -100,7 +100,7 @@
 
 <details>   
     <p style="margin-bottom: 20px">
-        <summary><h2 style="font-weight: bold">Learning / Aprendendo</h2></summary>
+        <summary><h3 style="font-weight: bold">Learning / Aprendendo</h3></summary>
         <img 
             align="left" 
             alt="HTML"
@@ -180,7 +180,7 @@
 
 <details>
     <p>
-        <summary><h2 style="font-weight: bold">I want to learn / Quero aprender</h2></summary>
+        <summary><h3 style="font-weight: bold">I want to learn / Quero aprender</h3></summary>
         <img 
             align="left" 
             alt="PostgreSQL"
