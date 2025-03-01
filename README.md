@@ -1,7 +1,7 @@
 <!-- Título -->
 <p align="center">
     <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=204DF7&width=435&lines=Thiago+Jun+Honma" alt="Typing SVG" style="margin>: 0px"/></a>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" height="100" style="margin: 0px"/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="150" height="150" style="margin: 0px"/>
 </p>
 
 <!-- Sobre mim -->
