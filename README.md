@@ -292,3 +292,17 @@
     Stats / Status
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFybm5ramt4bnV2bjJvbTlsZXcwN3N0MzlyZGttcms4aTdzNmxjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px"/>
 </h3>
+
+<hr>
+
+<details>
+    <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
+    <p align="left">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+        </a>
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+    </a>
+    </p>
+</details>
