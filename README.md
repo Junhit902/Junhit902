@@ -288,7 +288,7 @@
 </br>
 </br>
 
-<h3 style="font-weight: bold">Stats / Status</h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFybm5ramt4bnV2bjJvbTlsZXcwN3N0MzlyZGttcms4aTdzNmxjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px>
+<h3 style="font-weight: bold">Stats / Status<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFybm5ramt4bnV2bjJvbTlsZXcwN3N0MzlyZGttcms4aTdzNmxjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px></h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFybm5ramt4bnV2bjJvbTlsZXcwN3N0MzlyZGttcms4aTdzNmxjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px>
 
 <details>
     
