@@ -13,52 +13,9 @@
 </details>
 
 <hr>
-<div>
-<p style=" display: flex; justify-content: center; align-items: center; gap: 10px">
-<a href="https://www.linkedin.com/in/thiago-h-745106229/" target="_blank">
-<img 
-    align="left" 
-    alt="Linkedin"
-    title="Linkedin" 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-/>
-</a>
-<a href="mailto:thiagojunhonma@gmail.com" target="_blank">
-<img 
-    align="left" 
-    alt="Gmail" 
-    title="Gmail"
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-/>
-</a>
-<a href="https://roadmap.sh/u/junhit" target="_blank">
-<img 
-    align="left" 
-    alt="Roadmap" 
-    title="Roadmap"
-    width="40px" 
-    style="padding-right: 10px" 
-    src="https://miro.medium.com/v2/resize:fit:560/0*_xnljgRHKGo036r7" 
-/>
-</a>
-<a href="https://x.com/HommaJun" target="_blank">
-<img 
-    align="left" 
-    alt="X"
-    title="X" 
-    src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" 
-/>
-</a>
-<a href="https://stackoverflow.com/users/25957909/junhit?tab=profile" target="_blank">
-<img 
-    align="left" 
-    alt="StackOverflow"
-    title="StackOverflow" 
-    src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" 
-/>
-</a>
-</p>
-</div>
+
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 <div>
 ##   Linguagens e Tecnologias<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="50" height="50" style="vertical-align: middle;"/>
@@ -212,5 +169,3 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
