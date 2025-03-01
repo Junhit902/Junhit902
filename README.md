@@ -176,6 +176,8 @@
     </p>
 </details>
 
+</br>
+
 <details>
     <p>
         <summary><h2 style="font-weight: bold">I want to learn / Quero aprender</h2></summary>
