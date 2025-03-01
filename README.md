@@ -179,7 +179,7 @@
 </br>
 
 <details>
-    <p>
+    <p align="left">
         <summary><h2 style="font-weight: bold">I want to learn / Quero aprender</h2></summary>
         <img 
             align="left" 
