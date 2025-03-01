@@ -98,7 +98,7 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px"/>
 </h2>
 
-<details open>   
+<details>   
     <p>
         <summary><h2 style="font-weight: bold">Learning / Aprendendo</h2></summary>
         <img 
