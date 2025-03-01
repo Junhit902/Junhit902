@@ -84,7 +84,14 @@
 <hr>
 
 
-<div class="gif-container">
+<div style="background-image: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;">
   Linguagens e Tecnologias
 </div>
 
