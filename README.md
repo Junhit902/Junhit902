@@ -91,6 +91,14 @@
         src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">    
     </img>
 </a>
+<a href="https://open.spotify.com/playlist/1u4F50HA53L3Jwxbnk9IeO?si=10bf0963e06e48d6">
+    <img 
+        align-item="left" 
+        alt="Spotify"
+        title="Spotify" 
+        src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">    
+    </img>
+</a>
 </p>
 
 <h2 style="font-weight: bold">
