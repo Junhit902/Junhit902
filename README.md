@@ -1,3 +1,17 @@
+<style>
+  .gif-container {
+    background-image: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    display: inline-block;
+  }
+</style>
+
+
 # Thiago Jun Honma <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJraHVvMGM1bzh4am03NHFocXpkNjd2dThrMTF0NXk4eHpxaTJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="50" height="50" style="vertical-align: middle;"/>
 
 ## SOBRE MIM / ABOUT ME
@@ -66,3 +80,12 @@
 />
 </a>
 </p>
+
+<hr>
+
+
+<div class="gif-container">
+  Linguagens e Tecnologias
+</div>
+
+### Learning / Aprendendo
