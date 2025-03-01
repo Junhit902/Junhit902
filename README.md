@@ -99,7 +99,7 @@
 </h2>
 
 <details style="margin-bottom: 20px">   
-    <p >
+    <p align="left">
         <summary><h3 style="font-weight: bold">Learning / Aprendendo</h3></summary>
         <img 
             align="left" 
@@ -181,7 +181,7 @@
 
 
 <details style="margin-top: -20px">
-    <p>
+    <p align="left">
         <summary><h3 style="font-weight: bold">I want to learn / Quero aprender</h3></summary>
         <img 
             align="left" 
