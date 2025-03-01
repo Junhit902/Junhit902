@@ -169,8 +169,7 @@
             align="left" 
             alt="Java" 
             title="Java"
-            width="30px" 
-            style="padding-right: 10px;" 
+            width="30px"  
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
         />
     </p>
@@ -179,7 +178,7 @@
 </br>
 
 <details>
-    <p align="left">
+    <p>
         <summary><h2 style="font-weight: bold">I want to learn / Quero aprender</h2></summary>
         <img 
             align="left" 
