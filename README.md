@@ -305,4 +305,7 @@
         <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhit902&layout=donut&theme=tokyonight"/>
     </a>
     </p>
+    <p align="center">
+        <img height="250" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Junhit902&theme=tokyo-night"/>
+    </p>
 </details>
