@@ -20,7 +20,7 @@
     align="left" 
     alt="Linkedin"
     title="Linkedin" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
 />
@@ -30,7 +30,7 @@
     align="left" 
     alt="Gmail" 
     title="Gmail"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" 
 />
@@ -40,7 +40,7 @@
     align="left" 
     alt="Roadmap" 
     title="Roadmap"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px" 
     src="https://miro.medium.com/v2/resize:fit:560/0*_xnljgRHKGo036r7" 
 />
@@ -50,7 +50,7 @@
     align="left" 
     alt="X"
     title="X" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg" 
 />
@@ -60,7 +60,7 @@
     align="left" 
     alt="X"
     title="X" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" 
 />
