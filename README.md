@@ -98,9 +98,9 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px"/>
 </h2>
 
-<details open>
-    <summary><h2 style="font-weight: bold">Learning / Aprendendo</h2></summary>   
+<details open>   
     <p>
+        <summary><h2 style="font-weight: bold">Learning / Aprendendo</h2></summary>
         <img 
             align="left" 
             alt="HTML"
@@ -176,78 +176,80 @@
     </p>
 </details>
 
-<p>
-    <h2 style="font-weight: bold">I want to learn / Quero aprender</h2>
-    <img 
-        align="left" 
-        alt="PostgreSQL"
-        title="PostgreSQL" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Azure" 
-        title="Azure"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Matplotlib" 
-        title="Matplotlib"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Numpy"
-        title="Numpy" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Pytorch" 
-        title="Pytorch"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="R" 
-        title="R"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Ruby" 
-        title="Ruby"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="RubyonRails" 
-        title="RubyonRails"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Swift" 
-        title="Swift"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
-    />
-</p>
+<details>
+    <p>
+        <summary><h2 style="font-weight: bold">I want to learn / Quero aprender</h2></summary>
+        <img 
+            align="left" 
+            alt="PostgreSQL"
+            title="PostgreSQL" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Azure" 
+            title="Azure"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Matplotlib" 
+            title="Matplotlib"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Numpy"
+            title="Numpy" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Pytorch" 
+            title="Pytorch"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="R" 
+            title="R"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Ruby" 
+            title="Ruby"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="RubyonRails" 
+            title="RubyonRails"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Swift" 
+            title="Swift"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+        />
+    </p>
+</details>
