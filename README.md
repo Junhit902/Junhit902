@@ -98,83 +98,83 @@
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px"/>
 </h2>
 
-<p>
-    <h2 style="font-weight: bold">
-        Learning / Aprendendo
-    </h2>
-    <img 
-        align="left" 
-        alt="HTML"
-        title="HTML" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Python"
-        title="Python" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Android-Studio" 
-        title="Android-Studio"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Kotlin" 
-        title="Kotlin"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="C" 
-        title="C"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Blender" 
-        title="Blender"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
-    />
-    <img 
-        align="left" 
-        alt="Java" 
-        title="Java"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-    />
-</p>
+<details open>
+    <summary><h2 style="font-weight: bold">Learning / Aprendendo</h2></summary>   
+    <p>
+        <img 
+            align="left" 
+            alt="HTML"
+            title="HTML" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="CSS" 
+            title="CSS"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="JavaScript" 
+            title="JavaScript"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Python"
+            title="Python" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Android-Studio" 
+            title="Android-Studio"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Kotlin" 
+            title="Kotlin"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="C" 
+            title="C"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Blender" 
+            title="Blender"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Java" 
+            title="Java"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        />
+    </p>
+</details>
 
 <p>
     <h2 style="font-weight: bold">I want to learn / Quero aprender</h2>
