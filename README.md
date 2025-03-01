@@ -74,7 +74,7 @@
         align-item="left" 
         alt="X"
         title="X" 
-        src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=whitee">    
+        src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">    
     </img>
 </a>
 
