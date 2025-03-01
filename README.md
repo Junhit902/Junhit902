@@ -13,6 +13,7 @@
 </details>
 
 <hr>
+<p align="center">
 <a href="https://www.linkedin.com/in/thiago-h-745106229/">
     <img 
         align-item="left" 
@@ -77,10 +78,12 @@
         src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">    
     </img>
 </a>
+</p>
 
 ##   Linguagens e Tecnologias<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px"/>
 
 ### Learning / Aprendendo
+<div>
 <img 
     align="left" 
     alt="HTML"
@@ -153,8 +156,10 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+</div>
 
-###  I want to learn / Quero aprender
+<div>
+<h3>I want to learn / Quero aprender</h3>
 <img 
     align="left" 
     alt="PostgreSQL"
@@ -227,4 +232,4 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-
+</div>
