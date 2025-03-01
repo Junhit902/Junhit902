@@ -188,66 +188,66 @@
     />
     <img 
         align="left" 
-        alt="CSS" 
-        title="CSS"
+        alt="Azure" 
+        title="Azure"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
     />
     <img 
         align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
+        alt="Matplotlib" 
+        title="Matplotlib"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
     />
     <img 
         align="left" 
-        alt="Python"
-        title="Python" 
+        alt="Numpy"
+        title="Numpy" 
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
     />
     <img 
         align="left" 
-        alt="Android-Studio" 
-        title="Android-Studio"
+        alt="Pytorch" 
+        title="Pytorch"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
     />
     <img 
         align="left" 
-        alt="Kotlin" 
-        title="Kotlin"
+        alt="R" 
+        title="R"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
     />
     <img 
         align="left" 
-        alt="C" 
-        title="C"
+        alt="Ruby" 
+        title="Ruby"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
     />
     <img 
         align="left" 
-        alt="Blender" 
-        title="Blender"
+        alt="RubyonRails" 
+        title="RubyonRails"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
     />
     <img 
         align="left" 
-        alt="Java" 
-        title="Java"
+        alt="Swift" 
+        title="Swift"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
     />
 </p>
