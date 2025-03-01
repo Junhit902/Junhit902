@@ -100,7 +100,7 @@
 
 <details>   
     <p align="left">
-        <summary><h3 style="font-weight: bold"> Learning / Aprendendo</h3></summary>
+        <summary><h3 style="font-weight: bold">Learning / Aprendendo</h3></summary>
         <img 
             align="left" 
             alt="HTML"
@@ -182,38 +182,15 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <details>
+<summary>
+<div align="left">
+  
+### 🔗 Learning / Aprendendo
+
+</div>
+</summary>
     <p align="left">
-        <summary style="display: flex;"><h3 style="font-weight: bold">I want to learn / Quero aprender</h3></summary>
         <img 
             align="left" 
             alt="PostgreSQL"
