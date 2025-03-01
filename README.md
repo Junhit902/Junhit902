@@ -14,15 +14,13 @@
 
 <hr>
 <div>
-<p style=" display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p style=" display: flex; justify-content: center; align-items: center; gap: 10px">
 <a href="https://www.linkedin.com/in/thiago-h-745106229/" target="_blank">
 <img 
     align="left" 
     alt="Linkedin"
     title="Linkedin" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
 />
 </a>
 <a href="mailto:thiagojunhonma@gmail.com" target="_blank">
@@ -30,9 +28,7 @@
     align="left" 
     alt="Gmail" 
     title="Gmail"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
 />
 </a>
 <a href="https://roadmap.sh/u/junhit" target="_blank">
@@ -50,19 +46,15 @@
     align="left" 
     alt="X"
     title="X" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://img.freepik.com/vetores-gratis/novo-design-de-icone-x-do-logotipo-do-twitter-em-2023_1017-45418.jpg" 
+    src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" 
 />
 </a>
 <a href="https://stackoverflow.com/users/25957909/junhit?tab=profile" target="_blank">
 <img 
     align="left" 
-    alt="X"
-    title="X" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" 
+    alt="StackOverflow"
+    title="StackOverflow" 
+    src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" 
 />
 </a>
 </p>
@@ -219,3 +211,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
