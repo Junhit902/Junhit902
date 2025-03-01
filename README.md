@@ -288,8 +288,7 @@
 </br>
 </br>
 
-<h3 style="font-weight: bold">Stats / Status<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFybm5ramt4bnV2bjJvbTlsZXcwN3N0MzlyZGttcms4aTdzNmxjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px></h3><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFybm5ramt4bnV2bjJvbTlsZXcwN3N0MzlyZGttcms4aTdzNmxjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px>
-
-<details>
-    
-</details>
+<h3 style="font-weight: bold">
+    LINGUAGENS E TECNOLOGIAS
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBudTYwNGp1dHFobG5ncXFmd3B4N3c3YXFja3hpcWJ4d291ZTYzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px"/>
+</h3>
