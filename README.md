@@ -173,6 +173,22 @@
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
         />
+        <img 
+            align="left" 
+            alt="Excel" 
+            title="Excel"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" 
+        />
+        <img 
+            align="left" 
+            alt="Power BI" 
+            title="Power BI"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
+        />
     </p>
 </details>
 
