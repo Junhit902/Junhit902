@@ -22,6 +22,15 @@
         src="https://img.shields.io/badge/Linkedin-0D597F?style=for-the-badge&logo=linkedin&logoColor=1F243A">    
     </img>
 </a>
+<a href="https://www.linkedin.com/in/thiago-h-745106229/">
+    <img 
+        align="left" 
+        alt="Gmail"
+        title="Gmail" 
+        style="padding-right: 5px;" 
+        src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">    
+    </img>
+</a>
 
 
 ![Linkedin](https://img.shields.io/badge/Linkedin-0D597F?style=for-the-badge&logo=linkedin&logoColor=1F243A)
