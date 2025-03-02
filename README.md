@@ -317,7 +317,7 @@
 
 
 <picture align="center">
-  <img align="center" alt="github contribution grid snake animation" src="ocean.gif">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junhit902/Junhit902/refs/heads/output/ocean.svg">
 </picture>
 
 </details>
