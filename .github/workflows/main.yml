@@ -29,7 +29,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#00FF00&color_dots=#e0ffe0,#a3fba3,#5fe75f,#30c430,#008f00
+            dist/ocean.gif?color_snake=#007CFF&color_dots=#e0ffe0,#a3fba3,#5fe75f,#30c430,#008f00
 
 
       - name: push github-contribution-grid-snake.svg to the output branch
