@@ -313,7 +313,7 @@
 
 <h4 style="font-weight: bold" align="center">GitHub 3D Contribuition</h4>
 
-![Github Contribuition 3D](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-3d-contrib/profile-gitblock.svg)
+![Github Contribuition 3D](https://raw.githubusercontent.com/Junhit902/Junhit902/refs/heads/main/profile-3d-contrib/profile-gitblock.svg)
 
 
 <picture align="center">
