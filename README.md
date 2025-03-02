@@ -311,8 +311,15 @@
 
 </br>
 
-<h4 style="font-weight: bold; color: blue" align="center">Github 3D Contribuition</h4>
+<h4 style="font-weight: bold" align="center">GitHub 3D Contribuition</h4>
 
 ![Github Contribuition 3D](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-3d-contrib/profile-gitblock.svg)
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junhit902/Junhit902/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junhit902/Junhit902/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junhit902/Junhit902/output/github-contribution-grid-snake.svg">
+</picture>
 
 </details>
