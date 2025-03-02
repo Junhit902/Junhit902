@@ -316,7 +316,6 @@
 ![Github Contribuition 3D](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-3d-contrib/profile-gitblock.svg)
 
 
-
 <picture align="center">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junhit902/Junhit902/refs/heads/output/ocean.svg">
 </picture>
