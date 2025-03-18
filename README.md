@@ -288,6 +288,50 @@
 </br>
 </br>
 
+
+<details open>
+    <summary style="display: flex;"><h3 style="font-weight: bold">📚 Livros / Books </h3></summary>
+    <p align="left">
+    <a href="https://www.amazon.com.br/Como-Ser-Um-Programador-Melhor/dp/8575224158">
+        <img 
+            align="left" 
+            alt="Como ser um programador melhor"
+            title="Como ser um programador melhor" 
+            width="50px" 
+            style="padding-right: 10px;" 
+            src="https://m.media-amazon.com/images/I/71RWTuYLQiL._SL1383_.jpg" 
+        />
+    </a>
+    <a href="https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=pd_vtp_strm_d_sccl_2_2/130-7204058-3841225?psc=1">
+        <img 
+            align="left" 
+            alt="Entendendo Algoritmos" 
+            title="Entendendo Algoritmos"
+            width="50px" 
+            style="padding-right: 10px;" 
+            src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._SL1296_.jpg" 
+        />
+    </a>
+    <a href="https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=pd_vtp_strm_d_sccl_2_2/130-7204058-3841225?psc=1">
+        <img 
+            align="left" 
+            alt="Head First Python" 
+            title="Head First Python"
+            width="50px" 
+            style="padding-right: 10px;" 
+            src="https://m.media-amazon.com/images/I/817ZRa3zxBL._SL1500_.jpg" 
+        />
+    </a>
+    </p>
+</details>
+
+
+</br>
+</br>
+</br>
+</br>
+
+
 <h3 style="font-weight: bold">
     Stats / Status
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFybm5ramt4bnV2bjJvbTlsZXcwN3N0MzlyZGttcms4aTdzNmxjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pZJVwp7vh7kz2el7Np/giphy.gif" width="50" height="50" style="vertical-align: middle; margin-left: 10px"/>
