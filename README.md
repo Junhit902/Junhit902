@@ -297,7 +297,7 @@
             align="left" 
             alt="Como ser um programador melhor"
             title="Como ser um programador melhor" 
-            width="50px" 
+            width="100px" 
             style="padding-right: 10px;" 
             src="https://m.media-amazon.com/images/I/71RWTuYLQiL._SL1383_.jpg" 
         />
@@ -307,17 +307,17 @@
             align="left" 
             alt="Entendendo Algoritmos" 
             title="Entendendo Algoritmos"
-            width="50px" 
+            width="100px" 
             style="padding-right: 10px;" 
             src="https://m.media-amazon.com/images/I/71Vkg7GfPFL._SL1296_.jpg" 
         />
     </a>
-    <a href="https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=pd_vtp_strm_d_sccl_2_2/130-7204058-3841225?psc=1">
+    <a href="https://www.amazon.com.br/Head-First-Python-Brain-Friendly-Guide/dp/1492051292/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=books&sr=1-1">
         <img 
             align="left" 
             alt="Head First Python" 
             title="Head First Python"
-            width="50px" 
+            width="100px" 
             style="padding-right: 10px;" 
             src="https://m.media-amazon.com/images/I/817ZRa3zxBL._SL1500_.jpg" 
         />
@@ -330,7 +330,9 @@
 </br>
 </br>
 </br>
-
+</br>
+</br>
+</br>
 
 <h3 style="font-weight: bold">
     Stats / Status
