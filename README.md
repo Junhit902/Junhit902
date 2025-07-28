@@ -109,32 +109,6 @@
 <hr>
 
 <details open>   
-    <p align="left">
-        <summary><h3 style="font-weight: bold">💻 Learning / Aprendendo</h3></summary>
-        <img 
-            align="left" 
-            alt="HTML"
-            title="HTML" 
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="CSS" 
-            title="CSS"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="JavaScript" 
-            title="JavaScript"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-        />
         <img 
             align="left" 
             alt="Python"
@@ -145,43 +119,11 @@
         />
         <img 
             align="left" 
-            alt="Android-Studio" 
-            title="Android-Studio"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="Kotlin" 
-            title="Kotlin"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="C" 
-            title="C"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-        />
-        <img 
-            align="left" 
             alt="Blender" 
             title="Blender"
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="Java" 
-            title="Java"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
         />
         <img 
             align="left" 
@@ -257,30 +199,6 @@
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="Ruby" 
-            title="Ruby"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="Ruby on Rails" 
-            title="Ruby on Rails"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" 
-        />
-        <img 
-            align="left" 
-            alt="Swift" 
-            title="Swift"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
         />
     </p>
 </details>
