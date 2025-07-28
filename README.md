@@ -263,14 +263,14 @@
     <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
     <p align="left">
         <a href="https://github.com/Junhit902">
-            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Juntjh&show_icons=true&theme=tokyonight" />
+            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jun902&show_icons=true&theme=tokyonight" />
         </a>
     <a href="https://github.com/Junhit902">
-        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juntjh&layout=donut&theme=tokyonight"/>
+        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun902&layout=donut&theme=tokyonight"/>
     </a>
     </p>
     <p align="center">
-        <img height="250" width="1400" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Juntjh&theme=tokyo-night"/>
+        <img height="250" width="1400" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jun902&theme=tokyo-night"/>
     </p>
 
 </br>
