@@ -279,9 +279,10 @@
 
 ![Github Contribuition 3D](https://raw.githubusercontent.com/Junhit902/Junhit902/refs/heads/main/profile-3d-contrib/profile-gitblock.svg)
 
-
 <picture align="center">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junhit902/Junhit902/refs/heads/output/ocean.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Junhit902]/[Junhit902]/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Junhit902]/[Junhit902]/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[Junhit902]/[Junhit902]/output/pacman-contribution-graph.svg">
 </picture>
 
 </details>
