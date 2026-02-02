@@ -264,7 +264,7 @@
 
 
 <details open>
-    <summary style="display: flex;"><h3 style="font-weight: bold">📚 Livros / Books </h3></summary>
+    <summary style="display: flex;"><h3 style="font-weight: bold">📚 Lista de Leitura / Reading List </h3></summary>
     <p align="left">
     <a href="https://www.amazon.com.br/Como-Ser-Um-Programador-Melhor/dp/8575224158">
         <img 
