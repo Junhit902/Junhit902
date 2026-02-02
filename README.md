@@ -262,7 +262,9 @@
 <details open>
     <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
     <p align="center">
-        ![GitHub-Profile-Summary-Cards](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/apprentice/0-profile-details.svg)
+        [![](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blue_green/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+        [![](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blue_green/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+        [![](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blue_green/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blue_green/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
     </p>
 
 </br>
