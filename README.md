@@ -119,11 +119,43 @@
         />
         <img 
             align="left" 
-            alt="Blender" 
-            title="Blender"
+            alt="Matplotlib" 
+            title="Matplotlib"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Seaborn" 
+            title="Seaborn"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Numpy"
+            title="Numpy" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Pandas"
+            title="Pandas" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Scikit-learn"
+            title="Scikit-learn" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
         />
         <img 
             align="left" 
@@ -140,6 +172,38 @@
             width="30px" 
             style="padding-right: 10px;" 
             src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
+        />
+        <img 
+            align="left" 
+            alt="Jupyer" 
+            title="Jupyter"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" 
+        />
+        <img 
+            align="left" 
+            alt="SQL" 
+            title="SQL"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Java" 
+            title="Java"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Git" 
+            title="Git"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
         />
     </p>
 </details>
@@ -162,27 +226,11 @@
         />
         <img 
             align="left" 
-            alt="Azure" 
-            title="Azure"
+            alt="AWS" 
+            title="AWS"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="Matplotlib" 
-            title="Matplotlib"
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
-        />
-        <img 
-            align="left" 
-            alt="Numpy"
-            title="Numpy" 
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
         />
         <img 
             align="left" 
@@ -191,6 +239,14 @@
             width="30px" 
             style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Tensorflow" 
+            title="Tensorflow"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
         />
         <img 
             align="left" 
@@ -263,8 +319,8 @@
     <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
     <p align="center">
         <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/0-profile-details.svg"  width="800" />
-        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/3-stats.svg"  width="800" />
-        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/4-productive-time.svg"  width="800" />
+        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/3-stats.svg"  width="400" />
+        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/4-productive-time.svg"  width="400" />
     </p>
 
 </br>
