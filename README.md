@@ -83,7 +83,7 @@
         src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white">    
     </img>
 </a>
-<a href="https://open.spotify.com/playlist/1u4F50HA53L3Jwxbnk9IeO?si=10bf0963e06e48d6">
+<a href="https://open.spotify.com/playlist/1YgwRX2I070kA8bGi3RZwE?si=f7984ea6539b4ca4">
     <img 
         align-item="left" 
         alt="Spotify"
