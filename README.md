@@ -13,13 +13,13 @@
 <h3>SOBRE MIM / ABOUT ME</h3>
 <hr>
 <p style="text-align: justify">
-👋 Hi, my name is Thiago Jun Honma. I am 22 years old, and I'm passionate about developing my skills in programming. Currently, I live in Sorocaba, SP (Brazil). I'm studying for a Bachelor's degree in Computer Engineering at <a href="https://facens.br/" target="_blank" style="font-weight: bold;">Centro Universitário - Facens</a>.
+👋 Hi, my name is Thiago Jun Honma. I am 23 years old, and I'm passionate about developing my skills in programming. Currently, I live in Sorocaba, SP (Brazil). I'm studying for a Bachelor's degree in Computer Engineering at <a href="https://facens.br/" target="_blank" style="font-weight: bold;">Centro Universitário - Facens</a>.
 </p>
 
 <details>
   <summary>🇧🇷 Versão em Português</summary>
   <p style="text-align: justify">
-  👋 Olá, meu nome é Thiago Jun Honma, tenho 22 anos e sou apaixonado por desenvolver minhas habilidades em programação. Atualmente, moro em Sorocaba - SP. Estou cursando Bacharelado em Engenharia da Computação no <a href="https://facens.br/" target="_blank" style="font-weight: bold;">Centro Universitário - Facens</a>. Meu obetivo é aprender mais sobre a área de Engenharia de Dados e Ciência de Dados.
+  👋 Olá, meu nome é Thiago Jun Honma, tenho 23 anos e sou apaixonado por desenvolver minhas habilidades em programação. Atualmente, moro em Sorocaba - SP. Estou cursando Bacharelado em Engenharia da Computação no <a href="https://facens.br/" target="_blank" style="font-weight: bold;">Centro Universitário - Facens</a>. Meu obetivo é aprender mais sobre a área de Engenharia de Dados e Ciência de Dados.
   </p>
 </details>
 
