@@ -261,16 +261,8 @@
 
 <details open>
     <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
-    <p align="left">
-        <a href="https://github.com/Junhit902">
-            <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Junhit902&show_icons=true&theme=tokyonight" />
-        </a>
-    <a href="https://github.com/Junhit902">
-        <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junhit902&layout=donut&theme=tokyonight"/>
-    </a>
-    </p>
     <p align="center">
-        <img height="250" width="1400" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Junhit902&theme=tokyo-night"/>
+        [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
     </p>
 
 </br>
