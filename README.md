@@ -262,7 +262,7 @@
 <details open>
     <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
     <p align="center">
-        [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+        [![](https://raw.githubusercontent.com/Junhit902/Junhit902/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
     </p>
 
 </br>
