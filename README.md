@@ -262,9 +262,9 @@
 <details open>
     <summary style="display: flex;"><h3 style="font-weight: bold">📈 Activity / Atividade</h3></summary>
     <p align="center">
-        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/0-profile-details.svg" />
-        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/3-stats.svg" />
-        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/4-productive-time.svg" />
+        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/0-profile-details.svg"  width="800" />
+        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/3-stats.svg"  width="800" />
+        <img src="https://raw.githubusercontent.com/Junhit902/Junhit902/main/profile-summary-card-output/blueberry/4-productive-time.svg"  width="800" />
     </p>
 
 </br>
