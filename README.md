@@ -273,7 +273,7 @@
             title="VSCode" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
         />
         <img 
             align="left" 
@@ -281,7 +281,7 @@
             title="Eclipse"
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
         /> 
     </p>
 </details>
@@ -300,7 +300,7 @@
             title="Trello" 
             width="30px" 
             style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
         />
         <img 
             align="left" 
@@ -308,7 +308,7 @@
             title="Obsidian"
             width="30px" 
             style="padding-right: 10px;" 
-            src="C:\GitHub\Junhit902\imagens\Obsidian.png" 
+            src="./imagens/obsidian-icon.png" 
         /> 
     </p>
 </details>
