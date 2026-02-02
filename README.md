@@ -259,6 +259,61 @@
     </p>
 </details>
 
+
+</br>
+</br>
+
+
+<details open>
+    <summary style="display: flex;"><h3 style="font-weight: bold">⚙️ IDE & Editors </h3></summary>
+    <p align="left">
+        <img 
+            align="left" 
+            alt="VSCode"
+            title="VSCode" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Eclipse" 
+            title="Eclipse"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" 
+        /> 
+    </p>
+</details>
+
+
+</br>
+</br>
+
+
+<details open>
+    <summary style="display: flex;"><h3 style="font-weight: bold">🍵 Organização e Produtividade / Organization and Productivity </h3></summary>
+    <p align="left">
+        <img 
+            align="left" 
+            alt="Trello"
+            title="Trello" 
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" 
+        />
+        <img 
+            align="left" 
+            alt="Obsidian" 
+            title="Obsidian"
+            width="30px" 
+            style="padding-right: 10px;" 
+            src="C:\GitHub\Junhit902\imagens\Obsidian.png" 
+        /> 
+    </p>
+</details>
+
+
 </br>
 </br>
 
