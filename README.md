@@ -280,7 +280,7 @@
 ![Github Contribuition 3D](https://raw.githubusercontent.com/Junhit902/Junhit902/refs/heads/main/profile-3d-contrib/profile-gitblock.svg)
 
 <picture align="center">
-    <img src="game.gif" alt="GitHub Space Shooter">
+    <img src="game.gif">
 </picture>
 
 </details>
